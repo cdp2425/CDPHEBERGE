@@ -1,1 +1,3 @@
 Fichier2 Texte1 Cdp Local
+Fichier2 Texte2 Cdp Local
+Fichier2 Texte3 Cdp Local
